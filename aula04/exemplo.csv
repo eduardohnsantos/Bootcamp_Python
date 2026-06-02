@@ -1,0 +1,11 @@
+id,nome,email,idade,cidade,salario,data_admissao
+1,Ana Souza,ana.souza@email.com,28,Ribeirão Preto,4500.00,2023-01-15
+2,Carlos Lima,carlos.lima@email.com,35,São Paulo,7200.50,2022-08-10
+3,Mariana Costa,mariana.costa@email.com,31,Campinas,5800.75,2024-03-22
+4,João Ferreira,joao.ferreira@email.com,42,Santos,8900.00,2021-11-05
+5,Patrícia Alves,patricia.alves@email.com,26,Franca,4100.25,2024-06-18
+6,Ricardo Mendes,ricardo.mendes@email.com,38,Uberlândia,7600.00,2020-09-30
+7,Juliana Rocha,juliana.rocha@email.com,29,Araraquara,5200.40,2023-07-12
+8,Felipe Martins,felipe.martins@email.com,33,Belo Horizonte,6800.90,2022-04-08
+9,Beatriz Gomes,beatriz.gomes@email.com,27,Curitiba,4700.00,2024-01-25
+10,Lucas Pereira,lucas.pereira@email.com,40,Goiânia,8300.60,2021-02-14
