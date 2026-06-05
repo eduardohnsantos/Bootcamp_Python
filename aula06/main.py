@@ -23,7 +23,7 @@ def processar_temperaturas(path_do_txt: Path):
             'Roseau': [34.4],
             'Conakry': [31.2],
         }
-        O uso de defaultdict do módulo collections é uma escolha conveniente 
+        O uso de defaultdict do módulo collections é uma escolha conveniente
         Sem o defaultdict, o código para adicionar uma temperatura iria parecer com isso:
         if nome_da_station not in temperatura_por_station:
             temperatura_por_station[nome_da_station] = []
