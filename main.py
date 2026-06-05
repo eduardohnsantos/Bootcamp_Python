@@ -74,3 +74,4 @@ if __name__ == "__main__":
     path_do_txt: Path = Path("data/measurements.txt")
     # 100M > 5 minutos.
     resultados = processar_temperaturas(path_do_txt)
+    # Teste de commit
